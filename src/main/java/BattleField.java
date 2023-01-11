@@ -1,4 +1,6 @@
-package entities;
+import entities.Blaster;
+import entities.Lightsaber;
+import entities.StarwarsCharacter;
 
 public class BattleField {
     public static void main(String[] args) {

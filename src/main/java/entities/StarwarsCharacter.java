@@ -4,7 +4,7 @@ package entities;
 public class StarwarsCharacter {
     String name;
     IWeapon weapon;
-    StarwarsCharacter(String name,IWeapon weapon){
+    public StarwarsCharacter(String name, IWeapon weapon){
         this.name=name;
         this.weapon=weapon;
     }
